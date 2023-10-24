@@ -5,7 +5,8 @@ This Unity scene features a sample that demonstrates voice-controlled input to a
 
 ## 2. Demo
 
-- [ ]  video here
+https://github.com/holoi/ultrasound-of-bats/assets/52849063/12c26f09-5b94-4536-b05c-587b3a060ce2
+
 
 ## 3. How it works
 
