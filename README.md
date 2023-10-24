@@ -9,7 +9,8 @@ This Unity scene features a sample that demonstrates voice-controlled input to a
 
 ## 3. How it works
 
-[![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/c394a3b1-49d5-493e-98a9-df3037e184ca/185d3034-67f4-4e52-9cb8-808d459c81d3/Untitled.png)](https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fc394a3b1-49d5-493e-98a9-df3037e184ca%2F185d3034-67f4-4e52-9cb8-808d459c81d3%2FUntitled.png?table=block&id=e6f373f4-0392-4185-a4f9-a67abecfd365&spaceId=c394a3b1-49d5-493e-98a9-df3037e184ca&width=2000&userId=9016e7ba-0dc3-4c49-8fe2-4e5bdfe4c9fe&cache=v2)
+![image](https://github.com/holoi/ultrasound-of-bats/assets/52849063/7def6578-ab61-4c16-be74-194064851c96)
+
 
 This Unity scene features a sample that demonstrates voice-controlled input to activate position-related spatial visual effects within an AR scene. What it actually do is: get your voice as input, trigger a vfx everytime you make sound. And the vfx is a spatial vfx which needs mesh of your surroundings(we use ARMeshManager to get the mesh)
 
@@ -19,7 +20,8 @@ In Settings, we set our main light of scene with a Directional Light object. A V
 
 In UI, we got a Canvas called HoloKit UI Canvas and An EventSystem Obbect. Inside canvas there are four objects:
 
-[![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/c394a3b1-49d5-493e-98a9-df3037e184ca/f7b6c644-ae98-4d85-9344-51a99e987bf3/Untitled.png)](https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fc394a3b1-49d5-493e-98a9-df3037e184ca%2Ff7b6c644-ae98-4d85-9344-51a99e987bf3%2FUntitled.png?table=block&id=6561128e-7ea6-4d78-8858-1f671b58449c&spaceId=c394a3b1-49d5-493e-98a9-df3037e184ca&width=2000&userId=9016e7ba-0dc3-4c49-8fe2-4e5bdfe4c9fe&cache=v2)
+![image](https://github.com/holoi/ultrasound-of-bats/assets/52849063/2948e80a-48fe-431f-b1e6-705c65d97a8e)
+
 
 First two are default UI for HoloKit usage, we won’t discuss them here. 
 
