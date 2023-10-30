@@ -1,4 +1,4 @@
-# ultrasound-of-bats
+# becoming-bats
 ## 1. Introducing
 
 This Unity scene features a sample that demonstrates voice-controlled input to activate position-related spatial visual effects within an AR scene. Inspired by how bats detect their surroundings with their own sound.
