@@ -1,15 +1,10 @@
-# becoming-bats
-# Changlog
-# Abstract
+# Becoming Bats
 
 This project features a sample that demonstrates using voice as input to activate position-related spatial visual effects within an AR scene. Inspired by how bats detect their surroundings with their own sound.
 
-# Demo
+![mp4](https://github.com/holoi/becoming-bats/assets/52849063/12c26f09-5b94-4536-b05c-587b3a060ce2)
 
-https://github.com/holoi/ultrasound-of-bats/assets/52849063/12c26f09-5b94-4536-b05c-587b3a060ce2
-
-
-# How it works
+## How does it work
 
 In this project, we take your voice as input, trigger a visual effect every time you make sound(the volume of sound should be above a pre-set value). And the visual effect is a spatial visual effect which needs mesh information of your surroundings(we use Meshing feature from AR Foundation to get the mesh information).
 
@@ -33,7 +28,6 @@ First two are default UI for HoloKit usage, we won’t discuss them here.
 The “Mesh Button” object is a button to control On&Off of ARMeshManager feature. if you always keep this feature On, meshing feature will kill the performance of your phone. Here the button on your own hands, you can disable this feature when you got enough mesh information of your surroundings.
 
 The”Mesh Detail Slider” is a slider object used to control the level of detail of your mesh. A higher value means a more detailed mesh, resulting in a smoother and better matching between meshing information and real environment
-
 
 ## Sound and Effect
 
