@@ -35,7 +35,7 @@ The “Mesh Button” object is a button to control On&Off of ARMeshManager feat
 The”Mesh Detail Slider” is a slider object used to control the level of detail of your mesh. A higher value means a more detailed mesh, resulting in a smoother and better matching between meshing information and real environment
 
 
-## Scene
+## Sound and Effect
 
 ![image](https://github.com/holoi/becoming-bats/assets/52849063/592e00ce-2815-4ada-b962-d35954ad2cd5)
 
