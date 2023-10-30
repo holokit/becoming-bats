@@ -4,12 +4,12 @@
 
 This project features a sample that demonstrates using voice as input to activate position-related spatial visual effects within an AR scene. Inspired by how bats detect their surroundings with their own sound.
 
-# 2. Demo
+# Demo
 
 https://github.com/holoi/ultrasound-of-bats/assets/52849063/12c26f09-5b94-4536-b05c-587b3a060ce2
 
 
-# 3. How it works
+# How it works
 
 In this project, we take your voice as input, trigger a visual effect every time you make sound(the volume of sound should be above a pre-set value). And the visual effect is a spatial visual effect which needs mesh information of your surroundings(we use Meshing feature from AR Foundation to get the mesh information).
 
