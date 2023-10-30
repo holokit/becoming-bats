@@ -54,7 +54,7 @@ As for mobile device, I used iPhone 12Pro.
 2. Open BatSound→Scene.
   <img src="https://github.com/holoi/becoming-bats/assets/52849063/e3816144-be3c-41b0-a60a-cf38f68b8ec5" width="640px">
   
-4. Build this scene to an Xcode project.
-5. Open Xcode, open your Xcode project, build to your mobile device.
+3. Build this scene to an Xcode project.
+4. Open Xcode, open your Xcode project, build to your mobile device.
 
 # License
