@@ -9,7 +9,7 @@ This project features a sample that demonstrates using voice as input to activat
 In this project, we take your voice as input, trigger a visual effect every time you make sound(the volume of sound should be above a pre-set value). And the visual effect is a spatial visual effect which needs mesh information of your surroundings(we use Meshing feature from AR Foundation to get the mesh information).
 
 Our Unity scene consists of three parts: “Settings”, “UI” and “Sound and Effect”:
-<img src="[https://img-blog.csdnimg.cn/2020102116384135.png](https://github.com/holoi/becoming-bats/assets/52849063/6c878ae0-4bfa-4c92-9596-cce0c32ab0f6)" width="640px">
+<img src="https://github.com/holoi/becoming-bats/assets/52849063/6c878ae0-4bfa-4c92-9596-cce0c32ab0f6" width="640px">
 
 ## Settings
 ![image](https://github.com/holoi/becoming-bats/assets/52849063/6a2d46ca-ff6c-4b37-aa74-989c06731709)
