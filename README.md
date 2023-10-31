@@ -2,6 +2,7 @@
 
 This project features a sample that demonstrates using voice as input to activate position-related spatial visual effects within an AR scene. Inspired by how bats detect their surroundings with their own sound.
 
+# Demo
 ![mp4](https://github.com/holoi/becoming-bats/assets/52849063/12c26f09-5b94-4536-b05c-587b3a060ce2)
 
 ## How does it work
