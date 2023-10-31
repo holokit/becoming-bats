@@ -43,12 +43,15 @@ The “BatVFXShaderController” objects grab some parameters and pass them to o
 Finally, “SceneManager” object provides some functions for our UI elements. UI itself is a button, slider or sth else with no function in it. We create those functions and bind them to UI elements. Such as a function controls the On&Off of ARMeshManager.
 
 # System requirements
-I created and tested this project in Unity2022.3.8f1. I recommend you open this project with Unity2022.3.8f1.
 
-I build and tested this project to device with Xcode 14.2.
+This project uses HoloKit SDK and aims to build an app runs on iOS device.
+I created and built this project in Unity 2022.3.8f1, I highly recommand you use this version and above to open the project.
+Make sure your Unity had install the iOS module:
+  1. Some features from HoloKit SDK only works on platform of iOs. If you work on other platform, some code may fail to compile, preventing you from entering Play mode and significantly impacting your development experience.
+  2. Build to an Xcode project needs iOS module.
+I built this project to iPhone with Xcode 14.2.
 
 As for mobile device, I used iPhone 12Pro.
-
 - *This project uses Meshing feature of AR Foundation, which needs a mobile device with Lidar camera, please make sure your device has Lidar camera
 
 # How to try it
