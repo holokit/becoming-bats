@@ -6,8 +6,7 @@ This project features a sample that demonstrates using voice as input to activat
 
 The "becoming-bats" project utilizes the meshing functionality of AR Foundation. This meshing feature provides environmental model information, allowing us to overlay visual effects on the physical environment to convey a specific theme.
 
-![image](https://github.com/holoi/becoming-bats/assets/52849063/3a970e6d-ebf2-40d9-8ef5-6977687ef7c0)
-
+<img src="https://github.com/holoi/becoming-bats/assets/52849063/3a970e6d-ebf2-40d9-8ef5-6977687ef7c0" width="320" />
 
 The project is positioned as an AR interactive experience where users can engage through handheld devices or with HoloKit. By emitting sounds (initiating bat echolocation), players experience a diffusion of blue visual effects onto surrounding physical surfaces. This signifies the perception of the environment through the propagation of sound and its collisions within the surroundings.
 
