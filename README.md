@@ -59,7 +59,7 @@ This project aims to build an app runs on iOS device.
 
 1. Clone the project, open with Unity.
 2. Open Assets -> BatSound -> Scene.
-  <img src="https://github.com/holoi/becoming-bats/assets/52849063/e3816144-be3c-41b0-a60a-cf38f68b8ec5" width="640px">
-  
+   <img src="https://github.com/holoi/becoming-bats/assets/52849063/e3816144-be3c-41b0-a60a-cf38f68b8ec5" width="640px">
+   
 3. Build this scene to an Xcode project.
 4. Open Xcode, open your Xcode project, build app to your mobile device.
