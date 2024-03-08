@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "com.holoi.xr.holokit": "https://github.com/holokit/holokit-unity-sdk.git",
+    "io.holokit.unity-sdk": "https://github.com/holokit/holokit-unity-sdk.git",
     "com.unity.collab-proxy": "2.2.0",
     "com.unity.ide.rider": "3.0.25",
     "com.unity.ide.visualstudio": "2.0.21",
