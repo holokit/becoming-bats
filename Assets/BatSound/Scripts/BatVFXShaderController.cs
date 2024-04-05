@@ -1,5 +1,5 @@
 using UnityEngine;
-using HoloInteractive.XR.HoloKit;
+using HoloKit;
 
 [ExecuteInEditMode]
 public class BatVFXShaderController : MonoBehaviour
